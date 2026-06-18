@@ -14,7 +14,7 @@ window.BORA_DADOS = {
      (deixe 10 ou mais pra NÃO mostrar contagem de urgência)
      --------------------------------------------------------------- */
   saidas: [
-    { destino: 'wicklow', data: '2026-06-27', vagas: 16 }
+    { destino: 'wicklow', data: '2026-06-28', vagas: 16 }
   ],
 
   /* ---------------------------------------------------------------
